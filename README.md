@@ -11,7 +11,7 @@ The dataset contains approximately 5.8 million U.S. flight records from 2015.
 Source: Hugging Face  
 https://huggingface.co/datasets/hsanchezp/us-dot-flight-delays-2015
 
-## What We Did
+
 
 - Cleaned and explored the flight data
 - Analyzed delays by airline, airport, route, and time
@@ -37,7 +37,7 @@ https://huggingface.co/datasets/hsanchezp/us-dot-flight-delays-2015
 
 ## Tools Used
 
-Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook, PostgreSQL, SQL, Power BI, Git, GitHub
+Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook, PostgreSQL, SQL, Power BI,GitHub
 
 ## Power BI Dashboard
 
@@ -50,11 +50,3 @@ Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook, PostgreSQL, SQL, Power BI
 - No real-time data
 - Performance may change on newer or different data
 
-## Future Improvements
-
-- Add weather data
-- Use newer flight data
-- Test additional machine learning models
-- Predict delay duration
-- Build an API
-- Add real-time prediction
